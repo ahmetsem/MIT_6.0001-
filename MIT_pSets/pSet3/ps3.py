@@ -5,7 +5,7 @@
 #
 # Name          : <your name>
 # Collaborators : <your collaborators>
-# Time spent    : 5
+# Time spent    : 
 
 import math
 import random
